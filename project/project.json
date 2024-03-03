@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Manhwapedia",
+        "tech": "HTML + CSS + JS",
+        "image": "./assets/img/project/manhwa.jpg",
+        "desc":"This is my project that uses a website to describe manhwa characters.",
+        "links": {
+            "demo": "https://Manhwapedia.site",
+            "code": "https://github.com/VernSG"
+        }
+    },{
+        "title": "Growtopia Private Server",
+        "tech": "C++",
+        "image": "./assets/img/project/endlogo.png",
+        "desc":"This is my Game Server.",
+        "links": {
+            "demo": "https://youtube.com/VernSG?",
+            "code": "https://github.com/GrowtopiaNoobs"
+        }
+    }
+]
